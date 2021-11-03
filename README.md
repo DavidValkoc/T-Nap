@@ -12,7 +12,7 @@
 
 [link](https://howtodo.sk/wp-content/uploads/ako-uvarit-spagety.jpg)
 
-[![NAJLEPSIE SPAGETY](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://howtodo.sk/wp-content/uploads/ako-uvarit-spagety.jpg)
+[![NAJLEPSIE SPAGETY](https://howtodo.sk/wp-content/uploads/ako-uvarit-spagety.jpg "Shiprock, New Mexico by Beau Rogers")](https://howtodo.sk/wp-content/uploads/ako-uvarit-spagety.jpg)
 
 ## Priprava
 
