@@ -9,10 +9,9 @@
 
 
 # Ako uvarit spagety
-
-[link](https://howtodo.sk/wp-content/uploads/ako-uvarit-spagety.jpg)
-
 [![NAJLEPSIE SPAGETY](https://howtodo.sk/wp-content/uploads/ako-uvarit-spagety.jpg "Shiprock, New Mexico by Beau Rogers")](https://howtodo.sk/wp-content/uploads/ako-uvarit-spagety.jpg)
+
+[link](https://howtodo.sk/ako-uvarit-spagety/)
 
 ## Priprava
 
