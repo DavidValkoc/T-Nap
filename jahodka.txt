@@ -17,4 +17,8 @@ fdsafasdfasdfasfdsafasdfasdfasfdsafasdfasdfasfdsafasdfasdfasfdsafasdfasdfasfdsaf
 
 fdsafasdfasdfas
 
+<<<<<<< HEAD
 NOVEEEEEEE UPDATEEEEEEEEEEEEE
+=======
+4.11.2021 EDITOVANIE
+>>>>>>> 3c00bd4fa1de0be1b2f823680bf6323976fda113
